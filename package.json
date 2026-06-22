@@ -1,6 +1,6 @@
 {
   "name": "donestok",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DonEstok - Sistema de Gestão de Estoque",
   "main": "electron/main.js",
   "scripts": {
